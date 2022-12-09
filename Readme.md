@@ -16,7 +16,7 @@ This is a list of my favorite programming monospaced fonts.
 + [Droid Sans Mono](#droid-sans-mono)
 + [Edlo](#edlo)
 + [Everson Mono](#everson-mono)
-+ [Fire Code](#fire-code)
++ [Fira Code](#fira-code)
 + [Fira Cousine](#fira-cousine)
 + [Generic Mono II](#generic-mono)
 + [Hack](#hack)
